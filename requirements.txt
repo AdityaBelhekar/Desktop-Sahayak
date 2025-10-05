@@ -5,6 +5,3 @@ PyQt6
 pynput
 sounddevice
 scipy
-
-# Wake Word
-pvporcupine
