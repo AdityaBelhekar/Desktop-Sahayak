@@ -1,7 +1,10 @@
 # GUI Framework
 PyQt6
 
-# For Hotkeys and Input
-pynput
+# Audio & Input
 sounddevice
 scipy
+pyaudio
+
+# Wake Word Engine
+pvporcupine
