@@ -4,7 +4,11 @@ PyQt6
 # Audio & Input
 sounddevice
 scipy
-pyaudio
+PyAudio
 
 # Wake Word Engine
 pvporcupine
+
+# AI / Speech-to-Text
+transformers
+torch
